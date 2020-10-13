@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>gesEnsup</name>
+	<comment></comment>
+	<projects>
+		<project>demoMockitoAvecJunit5</project>
+		<project>monEtudiant</project>
+		<project>monEtudiant-dao</project>
+		<project>monEtudiant-domaine</project>
+		<project>monEtudiant-service</project>
+		<project>monEtudiant-web</project>
+		<project>Servers</project>
+		<project>test</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+</projectDescription>
