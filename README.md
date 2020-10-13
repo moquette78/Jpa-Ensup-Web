@@ -42,10 +42,13 @@ Liste des prérequis:
 
 # Installation
 
+Créer la base de données 'dougschool'
 Importer le fichier sql sur PhpMyAdmin  
 Démarrer Tomcat (bin/starup.bat)  
 Copier la livraison dans le répertoire ‘webapps’ de tomcat  
 Pour lancer le logiciel , lancer le navigateur vers : http://localhost:8080/gesEnsup-web/  
+Login : admin
+Mot de passe : admin
 
 # Liste des collaborateurs
 
